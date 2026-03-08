@@ -27,8 +27,25 @@ Phase 1: Airfoil Selection and Theoretical Baseline
             Best Glide Ratio (Cl/Cd)     : Achieved at 4° angle of attack
        Observation: The NACA 4412 airfoil shows high performance in ground effect regions, providing consistent downforce      
 
-    
-       ![Cl vs Alpha Plot](images/Cl-alpha_graph.png)
+   
+   '    Cl-alpha graph:  
+<img width="692" height="427" alt="Cl-alpha graph" src="https://github.com/user-attachments/assets/45d47249-8950-4b79-ab2b-3e5f2ec8a091" />
+      
+   '    Cl-Cd graph:
+
+<img width="684" height="432" alt="Cl-Cd graph" src="https://github.com/user-attachments/assets/f4e2c71a-775e-40e7-bc29-bccc43c02dce" />
+
+   '    Pressure Points Video:
+
+
+
+
+
+https://github.com/user-attachments/assets/fcda8528-2f1e-4802-9110-18d687942ec2
+
+
+  
+     
 
   📂 Repository Structure
       naca4412_coordinates.txt: Raw XY coordinate data used for CAD modeling.
