@@ -4,7 +4,7 @@ Phase 1: Airfoil Selection and Theoretical Baseline
     In Formula 1, the front wing is the most critical aerodynamic element as it dictates the flow structures (such as the Y250 vortex) for the entire car. This study focuses on selecting a high-performance airfoil profile to serve as the foundation for my initial 3D wing design and CFD simulations.
 
  🏎️ Selected Profile: NACA 4412
- 🛠️  For this baseline study, I have selected the NACA 4412 airfoil.
+    For this baseline study, I have selected the NACA 4412 airfoil.
       Technical Justification:
         High Lift Coefficient (Cl): F1 front wings need to generate massive downforce at various speeds. The NACA 4412 is known for its excellent lift-generation capabilities.
         Predictable Stall: It maintains a stable flow at higher angles of attack, which is crucial for aerodynamic balance during vehicle pitch and heave.
@@ -44,9 +44,11 @@ Phase 1: Airfoil Selection and Theoretical Baseline
 https://github.com/user-attachments/assets/fcda8528-2f1e-4802-9110-18d687942ec2
 
 
+
+  🚗 Initial 3D modeling of the front wing segment
+
   
      
-
   📂 Repository Structure
       naca4412_coordinates.txt: Raw XY coordinate data used for CAD modeling.
       README.md: Technical documentation of the selection process.
