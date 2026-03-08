@@ -20,8 +20,26 @@ Phase 1: Airfoil Selection and Theoretical Baseline
              v = Velocity of the car
              A = Planform Area
 
+   
+  📊 2D Analysis Results (XFLR5)
+      The profile was tested at a Reynolds Number of **750,000** (equivalent to ~160 km/h with a 250mm chord).
+            Max Lift Coefficent (Cl_max) : 1.6 at 14° angle of attack
+            Best Glide Ratio (Cl/Cd)     : Achieved at 4° angle of attack
+       Observation: The NACA 4412 airfoil shows high performance in ground effect regions, providing consistent downforce      
+
+
   📂 Repository Structure
       naca4412_coordinates.txt: Raw XY coordinate data used for CAD modeling.
       README.md: Technical documentation of the selection process.
+
+
+ 
+       
+
+
+
+
+
+
 
   🏁 Open Source F1 Aero Project
