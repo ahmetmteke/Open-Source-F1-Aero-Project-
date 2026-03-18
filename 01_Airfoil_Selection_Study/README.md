@@ -45,9 +45,26 @@ https://github.com/user-attachments/assets/fcda8528-2f1e-4802-9110-18d687942ec2
 
 
 
-  🚗 Initial 3D modeling of the front wing segment
+  🏎️ F1 Front Wing Project: Vintage Lotus-Senna Inspired Design
+    ![F1 Front Wing Render](01_Airfoil_Selection_Study/images/front_wing_render.png)
 
-  
+   '  ## 🌟 Overview: Phase 1 Completed
+        This project is a conceptual 3D design of a Formula 1 front wing, inspired by the iconic aesthetics of the **Lotus 97T** driven by Ayrton Senna. The design focuses on merging vintage aerodynamic philosophy with modern Composite modeling techniques.
+        The primary goal of Phase 1 was to master the fundamentals of 3D conceptualization, surface integration, and symmetrical assembly, rather than achieving functional aerodynamic optimization.
+
+   '  ## 🛠️ Phase 1 Achievements
+         1.  **Symmetrical Assembly:** Achieved a perfect symmetrical merge of the complex curved airfoil profiles with the central nose cone segment. (No "TIE Fighter" effect!)
+         2.  **Surface Integration:** Seamlessly integrated the multi-element main plane geometry with the outer endplates.
+         3.  **Vintage Aesthetic:** Captured the distinctive, sharp, and aggressive lines characteristic of the 1980s JPS Lotus era.
+         4.  **Material Application:** Applied a Carbon Fiber Composite texture for realistic visualization.
+
+
+🚀 Phase 2: Refinement and Advanced Aero Features
+Now that the initial geometry and assembly are locked in, Phase 2 focuses on transitioning the conceptual model into a high-fidelity engineering asset. This phase involves:
+
+   1.    Refinement: Finalizing complex fillets and corner radii to ensure realistic surface transitions between the airfoil elements and the endplates.
+   2.    Aero Features: Integrating conceptual Dive Planes (as shown in the latest iterations) and additional flaps inspired by the evolution of the JPS Lotus era.
+   3.    Portability: Exporting the final 3D geometry into universal industrial formats such as .STEP and .IGES to ensure cross-platform compatibility for future simulation studies.
      
   📂 Repository Structure
       naca4412_coordinates.txt: Raw XY coordinate data used for CAD modeling.
